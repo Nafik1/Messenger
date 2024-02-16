@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220320584755",
+    "project_id": "messenger-abf7c",
+    "storage_bucket": "messenger-abf7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220320584755:android:251f936ba77a7743687f46",
+        "android_client_info": {
+          "package_name": "com.example.lastmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAktv0wQ4xGpSw8JZujQY45a_qv9FWj-TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
